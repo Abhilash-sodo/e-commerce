@@ -41,9 +41,7 @@ This project is an e-commerce application designed to provide a seamless online 
    Create a `.env` file in the root directory and add the following variables:
    ```env
    PORT=3000
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
-   ```
+   
 
 4. **Start the Application**:
    ```bash
